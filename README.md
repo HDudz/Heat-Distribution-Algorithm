@@ -17,3 +17,18 @@ This project was developed during a semester-long academic course and provided v
 - Managing complexity in low-level programming  
 
 The project highlights the application of mathematical concepts in programming and showcases the efficiency of C++ in computationally intensive tasks.
+
+
+## How to run?
+Download project as ZIP.
+
+Create new C++ project in IDE of your choice e.g. Visual Studio.
+
+Extract "Projekt" directory into your project.
+
+Run main.cpp.
+
+
+
+You turn debug mode on and off in "config.h" file..
+
