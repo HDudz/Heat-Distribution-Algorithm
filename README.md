@@ -30,5 +30,5 @@ Run main.cpp.
 
 
 
-You turn debug mode on and off in "config.h" file..
+You can turn debug mode on and off in "config.h" file.
 
